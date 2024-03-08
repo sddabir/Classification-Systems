@@ -25,12 +25,9 @@ Identifying patterns in misclassified instances
 Strategies for improving model performance
 
 5. Multilabel Classification:
-Understanding multilabel classification tasks
-Implementing multilabel classification using MNIST dataset
+Introduction to the basic structure of a face-recognition model, demonstrating the concept of multilabel classification.
 
 6. Multioutput Classification:
-Introduction to multioutput classification
-Building a basic structure of a face-recognition model using MNIST dataset
-Understanding the concept of multioutput classification in the context of face recognition
+Integration of noise into MNIST image followed by the development of a system capable of returning clean images without noise, showcasing the application of multioutput classification techniques.
 
 Through hands-on implementation and analysis, participants will gain practical insights into the complexities and nuances of classification systems. By leveraging the MNIST dataset, known for its simplicity and relevance, this project offers a comprehensive understanding of classification techniques applicable in various real-world scenarios.
